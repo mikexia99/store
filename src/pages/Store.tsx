@@ -6,12 +6,12 @@ import storeCategories from '../data/main/categories.json'
 export function Store(){
     const linkDestinations = 
     [
-        '/dairy', 
-        '/meat',
-        '/vegetables',
-        '/fruits',
-        '/snacks',
-        '/fastfood'
+        '/grocerystore/dairy', 
+        '/grocerystore/meat',
+        '/grocerystore/vegetables',
+        '/grocerystore/fruits',
+        '/grocerystore/snacks',
+        '/grocerystore/fastfood'
     ];
     return (
         <>
