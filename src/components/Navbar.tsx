@@ -20,7 +20,7 @@ export function Navbar () {
                     variant = 'outline-primary'
                     className = 'rounded-circle d-flex justify-content-center align-items-center'>
 
-                        <img style = {{width: '2.75rem', height: '2.75rem', objectFit: 'cover'}} src="/icon/cart.png" alt="Cart Icon" />
+                        <img style = {{width: '2.75rem', height: '2.75rem', objectFit: 'cover'}} src="/store/icon/cart.png" alt="Cart Icon" />
 
                         <div
                             className = 'rounded-circle bg-danger d-flex justify-content-center align-items-center'

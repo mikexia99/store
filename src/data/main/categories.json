@@ -2,32 +2,32 @@
     {
       "id": 1,
       "name": "Dairy",
-      "imgUrl": "/category/dairy.jpg"
+      "imgUrl": "/store/category/dairy.jpg"
     },
     {
       "id": 2,
       "name": "Meat",
-      "imgUrl": "/category/meat.jpg"
+      "imgUrl": "/store/category/meat.jpg"
     },
     {
       "id": 3,
       "name": "Vegetables",
-      "imgUrl": "/category/vegetables.jpg"
+      "imgUrl": "/store/category/vegetables.jpg"
     },
     {
       "id": 4,
       "name": "Fruits",
-      "imgUrl": "/category/fruits.jpg"
+      "imgUrl": "/store/category/fruits.jpg"
     },
     {
       "id": 5,
       "name": "Snacks",
-      "imgUrl": "/category/snacks.jpg"
+      "imgUrl": "/store/category/snacks.jpg"
   },
   {
       "id": 6,
       "name": "Fast Food",
-      "imgUrl": "/category/fastfood.jpg"
+      "imgUrl": "/store/category/fastfood.jpg"
   }
 
 ]
