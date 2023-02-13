@@ -3,37 +3,37 @@
       "id": 37,
       "name": "Burger",
       "price": 6.49,
-      "imgUrl": "/fastfood/burger.jpg"
+      "imgUrl": "/store/fastfood/burger.jpg"
     },
     {
       "id": 38,
       "name": "Sandwich",
       "price": 7.49,
-      "imgUrl": "/fastfood/sandwich.jpg"
+      "imgUrl": "/store/fastfood/sandwich.jpg"
     },
     {
       "id": 39,
       "name": "Pizza",
       "price": 5.99,
-      "imgUrl": "/fastfood/pizza.jpg"
+      "imgUrl": "/store/fastfood/pizza.jpg"
     },
     {
       "id": 40,
       "name": "Fried Chicken",
       "price": 8.99,
-      "imgUrl": "/fastfood/friedchicken.jpg"
+      "imgUrl": "/store/fastfood/friedchicken.jpg"
     },
     {
       "id": 41,
       "name": "Hot Dog",
       "price": 2.99,
-      "imgUrl": "/fastfood/hotdog.jpg"
+      "imgUrl": "/store/fastfood/hotdog.jpg"
   },
   {
       "id": 42,
       "name": "Taco",
       "price": 2.99,
-      "imgUrl": "/fastfood/taco.jpg"
+      "imgUrl": "/store/fastfood/taco.jpg"
   }
 
 ]

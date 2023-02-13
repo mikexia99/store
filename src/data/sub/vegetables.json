@@ -3,37 +3,37 @@
       "id": 19,
       "name": "Cabbage",
       "price": 8.99,
-      "imgUrl": "/vegetables/cabbage.jpg"
+      "imgUrl": "/store/vegetables/cabbage.jpg"
     },
     {
       "id": 20,
       "name": "Carrot",
       "price": 2.49,
-      "imgUrl": "/vegetables/carrot.jpg"
+      "imgUrl": "/store/vegetables/carrot.jpg"
     },
     {
       "id": 21,
       "name": "Onion",
       "price": 2.99,
-      "imgUrl": "/vegetables/onion.jpg"
+      "imgUrl": "/store/vegetables/onion.jpg"
     },
     {
       "id": 22,
       "name": "Pepper",
       "price": 6.99,
-      "imgUrl": "/vegetables/pepper.jpg"
+      "imgUrl": "/store/vegetables/pepper.jpg"
     },
     {
       "id": 23,
       "name": "Tomato",
       "price": 5.99,
-      "imgUrl": "/vegetables/tomato.jpg"
+      "imgUrl": "/store/vegetables/tomato.jpg"
   },
   {
       "id": 24,
       "name": "Cucumber",
       "price": 4.99,
-      "imgUrl": "/vegetables/cucumber.jpg"
+      "imgUrl": "/store/vegetables/cucumber.jpg"
   }
 
 ]

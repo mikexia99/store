@@ -3,37 +3,37 @@
       "id": 31,
       "name": "Cookie",
       "price": 2.99,
-      "imgUrl": "/snacks/cookie.jpg"
+      "imgUrl": "/store/snacks/cookie.jpg"
     },
     {
       "id": 32,
       "name": "Cracker",
       "price": 2.99,
-      "imgUrl": "/snacks/cracker.jpg"
+      "imgUrl": "/store/snacks/cracker.jpg"
     },
     {
       "id": 33,
       "name": "Donute",
       "price": 3.49,
-      "imgUrl": "/snacks/donut.jpg"
+      "imgUrl": "/store/snacks/donut.jpg"
     },
     {
       "id": 34,
       "name": "Ice Cream",
       "price": 8.99,
-      "imgUrl": "/snacks/icecream.jpg"
+      "imgUrl": "/store/snacks/icecream.jpg"
     },
     {
       "id": 35,
       "name": "Oreo",
       "price": 10.99,
-      "imgUrl": "/snacks/oreo.jpg"
+      "imgUrl": "/store/snacks/oreo.jpg"
   },
   {
       "id": 36,
       "name": "Chocolate",
       "price": 7.99,
-      "imgUrl": "/snacks/chocolate.jpg"
+      "imgUrl": "/store/snacks/chocolate.jpg"
   }
 
 ]

@@ -3,36 +3,36 @@
       "id": 13,
       "name": "Steak",
       "price": 20.99,
-      "imgUrl": "/meat/steak.jpg"
+      "imgUrl": "/store/meat/steak.jpg"
     },
     {
       "id": 14,
       "name": "Chicken",
       "price": 5.99,
-      "imgUrl": "/meat/chicken.jpg"
+      "imgUrl": "/store/meat/chicken.jpg"
     },
     {
       "id": 15,
       "name": "Pork Chop",
       "price": 10.99,
-      "imgUrl": "/meat/porkchop.jpg"
+      "imgUrl": "/store/meat/porkchop.jpg"
     },
     {
       "id": 16,
       "name": "Lamb",
       "price": 30.99,
-      "imgUrl": "/meat/lamb.jpg"
+      "imgUrl": "/store/meat/lamb.jpg"
     },
     {
       "id": 17,
       "name": "Salmon",
       "price": 25.99,
-      "imgUrl": "/meat/salmon.jpg"
+      "imgUrl": "/store/meat/salmon.jpg"
   },
   {
       "id": 18,
       "name": "Shrimp",
       "price": 9.49,
-      "imgUrl": "/meat/shrimp.jpg"
+      "imgUrl": "/store/meat/shrimp.jpg"
   }
 ]

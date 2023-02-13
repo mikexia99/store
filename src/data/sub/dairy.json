@@ -3,37 +3,37 @@
       "id": 7,
       "name": "Egg",
       "price": 3.99,
-      "imgUrl": "/dairy/egg.jpg"
+      "imgUrl": "/store/dairy/egg.jpg"
     },
     {
       "id": 8,
       "name": "Milk",
       "price": 1.99,
-      "imgUrl": "/dairy/milk.jpg"
+      "imgUrl": "/store/dairy/milk.jpg"
     },
     {
       "id": 9,
       "name": "Cheese",
       "price": 8.49,
-      "imgUrl": "/dairy/cheese.jpg"
+      "imgUrl": "/store/dairy/cheese.jpg"
     },
     {
       "id": 10,
       "name": "Butter",
       "price": 10.99,
-      "imgUrl": "/dairy/butter.jpg"
+      "imgUrl": "/store/dairy/butter.jpg"
     },
     {
       "id": 11,
       "name": "Yogurt",
       "price": 7.49,
-      "imgUrl": "/dairy/yogurt.jpg"
+      "imgUrl": "/store/dairy/yogurt.jpg"
   },
   {
       "id": 12,
       "name": "Cream",
       "price": 3.99,
-      "imgUrl": "/dairy/cream.jpg"
+      "imgUrl": "/store/dairy/cream.jpg"
   }
 
 ]
