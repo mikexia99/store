@@ -1,0 +1,39 @@
+[
+    {
+      "id": 7,
+      "name": "Egg",
+      "price": 299.99,
+      "imgUrl": "/dairy/egg.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Milk",
+      "price": 899.99,
+      "imgUrl": "/dairy/milk.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Cheese",
+      "price": 999.99,
+      "imgUrl": "/dairy/cheese.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Butter",
+      "price": 1899.99,
+      "imgUrl": "/dairy/butter.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Yogurt",
+      "price": 699.99,
+      "imgUrl": "/dairy/yogurt.jpg"
+  },
+  {
+      "id": 12,
+      "name": "Cream",
+      "price": 1499.99,
+      "imgUrl": "/dairy/cream.jpg"
+  }
+
+]

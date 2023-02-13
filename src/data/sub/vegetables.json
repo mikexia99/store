@@ -1,0 +1,39 @@
+[
+    {
+      "id": 19,
+      "name": "Cabbage",
+      "price": 999.99,
+      "imgUrl": "/vegetables/cabbage.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Carrot",
+      "price": 1099.99,
+      "imgUrl": "/vegetables/carrot.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Onion",
+      "price": 699.99,
+      "imgUrl": "/vegetables/onion.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Pepper",
+      "price": 799.99,
+      "imgUrl": "/vegetables/pepper.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Tomato",
+      "price": 799.99,
+      "imgUrl": "/vegetables/tomato.jpg"
+  },
+  {
+      "id": 24,
+      "name": "Cucumber",
+      "price": 0.99,
+      "imgUrl": "/vegetables/cucumber.jpg"
+  }
+
+]

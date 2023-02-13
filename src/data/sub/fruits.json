@@ -1,0 +1,39 @@
+[
+    {
+      "id": 25,
+      "name": "Apple",
+      "price": 8.99,
+      "imgUrl": "/fruits/apple.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Banana",
+      "price": 7.99,
+      "imgUrl": "/fruits/banana.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Orange",
+      "price": 5.99,
+      "imgUrl": "/fruits/orange.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Watermelon",
+      "price": 6.99,
+      "imgUrl": "/fruits/watermelon.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Grape",
+      "price": 12.99,
+      "imgUrl": "/fruits/grape.jpg"
+  },
+  {
+      "id": 30,
+      "name": "Pineapple",
+      "price": 10.99,
+      "imgUrl": "/fruits/pineapple.jpg"
+  }
+
+]

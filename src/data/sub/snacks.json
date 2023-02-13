@@ -1,0 +1,39 @@
+[
+    {
+      "id": 31,
+      "name": "Cookie",
+      "price": 1.99,
+      "imgUrl": "/snacks/cookie.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Cracker",
+      "price": 4.99,
+      "imgUrl": "/snacks/cracker.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Donute",
+      "price": 10.99,
+      "imgUrl": "/snacks/donut.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Ice cream",
+      "price": 8.99,
+      "imgUrl": "/snacks/icecream.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Oreo",
+      "price": 19.99,
+      "imgUrl": "/snacks/oreo.jpg"
+  },
+  {
+      "id": 36,
+      "name": "chocolate",
+      "price": 7.99,
+      "imgUrl": "/snacks/chocolate.jpg"
+  }
+
+]

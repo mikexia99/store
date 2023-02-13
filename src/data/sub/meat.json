@@ -1,0 +1,38 @@
+[
+    {
+      "id": 13,
+      "name": "Steak",
+      "price": 39.99,
+      "imgUrl": "/meat/steak.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Chicken",
+      "price": 29.99,
+      "imgUrl": "/meat/chicken.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Pork Chop",
+      "price": 19.99,
+      "imgUrl": "/meat/porkchop.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Lamb",
+      "price": 69.99,
+      "imgUrl": "/meat/lamb.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Salmon",
+      "price": 29.99,
+      "imgUrl": "/meat/salmon.jpg"
+  },
+  {
+      "id": 18,
+      "name": "Shrimp",
+      "price": 9.99,
+      "imgUrl": "/meat/shrimp.jpg"
+  }
+]
