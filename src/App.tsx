@@ -12,14 +12,14 @@ function App(){
       <Navbar />
       <Container className = 'mb-4'>
         <Routes>
-          <Route path = '/grocerystore' element = {<Store />} />
+          <Route path = '/' element = {<Store />} />
 
-          <Route path = '/grocerystore/:type/' element = {<Products />} />
-          <Route path = '/grocerystore/:meat' element = {<Products />} />
-          <Route path = '/grocerystore/:vegetables' element = {<Products />} />
-          <Route path = '/grocerystore/:fruits' element = {<Products />} />
-          <Route path = '/grocerystore/:snacks' element = {<Products />} />
-          <Route path = '/grocerystore/:fastfoos' element = {<Products/>} />
+          <Route path = '/:type/' element = {<Products />} />
+          <Route path = '/:meat' element = {<Products />} />
+          <Route path = '/:vegetables' element = {<Products />} />
+          <Route path = '/:fruits' element = {<Products />} />
+          <Route path = '/:snacks' element = {<Products />} />
+          <Route path = '/:fastfoos' element = {<Products/>} />
 
         </Routes>
       </Container>
